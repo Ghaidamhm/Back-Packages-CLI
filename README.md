@@ -9,7 +9,7 @@
 
 - The system shall allow all users to cancel or update their OWN packages at any time.
 
-- The system allows the user to write comments in all packages's.
+- The system allows the user to write comments in all packages.
 
 - The system allows get any package on the website.
 
