@@ -15,4 +15,6 @@
 
 - The System has to provide searching characteristics that users can select from, such
  as: the package purpose and how to use it.
+ -  The system should allows rate other user's packages (upvote and dowenvote )
+
 
